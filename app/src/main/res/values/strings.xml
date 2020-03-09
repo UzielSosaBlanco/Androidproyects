@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">Login</string>
+    <string name="user">User</string>
+    <string name="pwrd">Password</string>
+    <string name="wlcm">Welcome</string>
+    <string name="editar_datos">Edit</string>
+    <string name="btret">Return</string>
+    <string name="regist">Register</string>
+    <string name="cambiar">change</string>
+    <string name="newuser">New User</string>
+    <string name="newpwrd">New Password</string>
+    <string name="erase">Erase account</string>
+    <string name="message">Home</string>
+    <string name="seeDates">See Dates</string>
+    <string name="eraseDates">Erase Dates</string>
+    <string name="exit">Exit</string>
+</resources>

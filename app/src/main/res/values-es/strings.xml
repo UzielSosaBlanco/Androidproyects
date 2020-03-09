@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="login">Entrar</string>
+    <string name="user">Usuario</string>
+    <string name="pwrd">Contraseña</string>
+    <string name="wlcm">Bienvenido</string>
+    <string name="editar_datos">editar</string>
+    <string name="btret">Regresar</string>
+    <string name="regist">Registrar</string>
+    <string name="cambiar">Cambiar</string>
+    <string name="newuser">Nuevo Usuario</string>
+    <string name="newpwrd">Nueva Contraseña</string>
+    <string name="erase">Borrar</string>
+    <string name="message">Home</string>
+    <string name="seeDates">Ver Datos</string>
+    <string name="eraseDates">Borrar Cuenta</string>
+    <string name="exit">Cerrar Sesion</string>
+</resources>
